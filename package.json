@@ -1,0 +1,20 @@
+{
+  "name": "image-classifier-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cloudflare/constellation": "^0.0.7",
+    "@cloudflare/workers-types": "^4.20230511.0",
+    "pngjs": "^7.0.0",
+    "string-to-stream": "^3.0.1",
+    "typescript": "^5.0.4",
+    "wrangler": "^0.0.0-d8f8f3d2"
+  }
+}
